@@ -14,4 +14,5 @@
 * [Bitcoin: A Peer-to-Peer Electronic Cash System*](https://bitcoin.org/bitcoin.pdf)
 * [Scaling Memcache at Facebook*](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
 * [Bigtable: A Distributed Storage System for Structured Data*](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
-* [SILT: A Memory-Efficient, High-Performance Key-Value Store](https://www.cs.cmu.edu/~dga/papers/silt-sosp2011.pdf)
+* [SILT: A Memory-Efficient, High-Performance Key-Value Store*](https://www.cs.cmu.edu/~dga/papers/silt-sosp2011.pdf)
+* [The Design of a Practical System for Fault-Tolerant Virtual Machines*](https://pdos.csail.mit.edu/6.824/papers/vm-ft.pdf)
